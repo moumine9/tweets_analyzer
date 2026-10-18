@@ -1,4 +1,4 @@
 ascii_graph==1.4.2
 tqdm==4.64.1
-numpy==1.16.6
+numpy==1.15.4
 tweepy==3.6.0
